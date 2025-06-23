@@ -8,7 +8,6 @@ El objetivo principal fue validar si los patrones de consumo musical varían geo
 ---
 
 ## ✨ Habilidades Clave Demostradas
-Este proyecto destaca mis capacidades como Analista de Datos, cruciales para roles remotos:
 
 # 💻 Hard Skills:
 - **Análisis Exploratorio de Datos (EDA)**: Evaluación de calidad de datos, identificación de valores ausentes, duplicados y formatos inconsistentes.
