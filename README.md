@@ -1,6 +1,6 @@
-##🎶**Proyecto: Análisis de Preferencias Musicales y Comportamiento del Usuario Urbano**
+# 🎶Proyecto: Análisis de Preferencias Musicales y Comportamiento del Usuario Urbano
 
-🎯** Visión General del Proyecto**
+## 🎯 Visión General del Proyecto
 Este proyecto se enfoca en la prueba de hipótesis a través del análisis comparativo del comportamiento de transmisión de música en línea en dos ciudades: Springfield y Shelbyville. Partiendo de datos reales de streaming, investigaremos si la actividad de los usuarios difiere según el día de la semana y la ciudad.
 
 El objetivo principal fue validar si los patrones de consumo musical varían geográficamente y temporalmente, ofreciendo insights estratégicos para entender a la audiencia y optimizar servicios.
